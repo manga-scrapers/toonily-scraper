@@ -1,2 +1,5 @@
-# toonily-scraper
-Scrap from https://toonily.net/
+# toonily-scraper [In Development]
+
+Scrap from [Toonily] (https://toonily.net/)
+
+Contributions are very much welcomed
